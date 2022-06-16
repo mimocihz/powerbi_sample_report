@@ -1,0 +1,2 @@
+# powerbi_sample_report
+訪日外客数データを使ったPower BIのデータクレンジングとデータ可視化の見本レポートファイル
